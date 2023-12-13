@@ -1,0 +1,16 @@
+:root {
+    --green: #b3da79;
+    --dark: #839955;
+    --light: #edffc6;
+    --cream: #f6ffe3;
+    --white: #f9f9f9;
+    --light-pink: #da79ca;
+    --dark-pink: #99558d;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
